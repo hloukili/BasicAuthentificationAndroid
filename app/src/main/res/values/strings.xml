@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Authentification</string>
+    <string name="image_content_description"> Android accompagné de son animal</string>
+    <string name="create_account"> Créer un compte</string>
+
+    <string name="email"> Adresse email</string>
+    <string name="password"> Mot de passe</string>
+    <string name="connect"> Se connecter</string>
+    <string name="hint_mail">"Ici : L'adresse mail de l'user"</string>
+    <string name="hint_pass">"Ici : Le mot de passe de l'user"</string>
+    <string name="email_error"> " L'email est non valide"</string>
+
+
+</resources>
